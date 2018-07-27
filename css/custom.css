@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'iransans';
+
+  src: url('../fonts/IRANSansWeb-Light.eot');
+  src: url('../fonts/IRANSansWeb-Light.eot?#iefix') format('embedded-opentype'), url('../fonts/IRANSansWeb-Light.woff2') format('woff2'), url('../fonts/IRANSansWeb-Light.woff') format('woff'), url('../fonts/IRANSansWeb-Light.ttf') format('truetype'), url('../fonts/IRANSansWeb-Light.svg#glyphicons_halflingsregular') format('svg');
+}
+*{
+	font-family: "iransans";
+}
+a{
+	color: darkgreen;
+}
+a:hover{
+	text-decoration: none;
+	color: green;
+}
